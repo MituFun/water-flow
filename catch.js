@@ -1,7 +1,7 @@
 const WebSocket = require('ws');
 const fs = require('fs');
 
-const wsAddress = 'ws://frp.freefrp.net:38293/yuxin/sum';
+const wsAddress = 'ws://10.0.26.32:1112/yuxin/sum';
 
 const filePath = 'Data.txt';
 
